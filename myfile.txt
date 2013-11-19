@@ -1,3 +1,10 @@
 new
 add 変更をインデックスに登録する
+<<<<<<< HEAD
 commit インデックスの状態を記録する
+=======
+commit インデックスの状態を記録する
+pull リモートリポジトリの内容を取得する
+
+hello
+>>>>>>> parent of 198fdb2... Revert "h com"
